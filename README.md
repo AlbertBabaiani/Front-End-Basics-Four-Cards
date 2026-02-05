@@ -4,6 +4,8 @@
 
 [![Demo](https://img.shields.io/badge/Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://albertbabaiani.github.io/Front-End-Basics-Four-Cards/)
 
+[![Design File](https://img.shields.io/badge/Design_File-Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/u1a0fswmCUtnmhKViSvwGq/four-card-feature-section?node-id=0-1&p=f&t=K5CQpbWysQow4Fs5-0)
+
 A responsive, **mobile-first** web page layout that displays four distinctive feature cards. The design focuses on clean typography, color-coded hierarchy, and an adaptive layout that shifts from a single column on mobile to a multi-column grid on desktop.
 
 ## Preview
